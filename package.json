@@ -1,0 +1,19 @@
+{
+  "name": "hui-notes",
+  "version": "0.0.1",
+  "description": "Hui's notes",
+  "main": "index.js",
+  "authors": {
+    "name": "chinghuihui",
+    "email": "sunny70624@gmail.com"
+  },
+  "repository": "hui-notes/hui-notes",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
