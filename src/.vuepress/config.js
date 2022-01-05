@@ -34,6 +34,7 @@ module.exports = {
     nextLinks: true,
     prevLinks: true,
     smoothScroll: true,
+    repo: 'ChingHuiHui/notes',
     nav: [
       // {
       //   text: 'Guide',
